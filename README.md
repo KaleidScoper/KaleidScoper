@@ -1,7 +1,5 @@
 ## This is Kaleid Scoper.
 
-<img src="[https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png](https://testgames.me/wp-content/uploads/2024/08/img_2242_5b36b05a0b3fd2ca353b24fafb07036c.png)">
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 📁 &nbsp;
@@ -29,18 +27,11 @@
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
   ![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
 <br/>
 
-![KaleidScoper's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaleidScoper&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
 
 <br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://testgames.me/"><img alt="Blog" src="https://img.shields.io/badge/Website-testgames.me-blue?style=flat-square&logo=google-chrome"></a>
-<a href="kaleided.scoper@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kaleided.scoper@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>

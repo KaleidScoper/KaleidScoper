@@ -1,4 +1,6 @@
-## Hi there 👋
+## This is Kaleid Scoper.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
 
 <!--
 **KaleidScoper/KaleidScoper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

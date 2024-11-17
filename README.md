@@ -35,8 +35,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://testgames.me/"><img alt="Blog" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="kaleided.scoper@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://testgames.me/"><img alt="Blog" src="https://img.shields.io/badge/Website-testgames.me-blue?style=flat-square&logo=google-chrome"></a>
+<a href="kaleided.scoper@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kaleided.scoper@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ Made from [AVS1508](https://github.com/AVS1508)

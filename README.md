@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Kaleid Scoper
+# Hi, I'm Kaleid Scoper.
 
-我是：
+# I am:
 
-- **安徽大学** 信息安全专业本科生
-- 热爱写作，在个人博客分享笔记、经验与思考
+- **Anhui University** undergraduate student majoring in Information (Cyber) Security
+- Passionate about writing, sharing notes, experiences, and thoughts on my blog
 
-我能怎样帮助您：
+# How I can help you:
 
 ## 📁 Programming Languages
 

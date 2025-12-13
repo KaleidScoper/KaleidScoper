@@ -3,9 +3,6 @@
 我是：
 
 - **安徽大学** 信息安全专业本科生
-- 全栈开发者
-- 专注于 **Web安全**、**逆向工程**、**密码学** 等领域
-- 具备 **前端开发** 实战经验，熟悉现代Web开发技术栈
 - 热爱写作，在个人博客分享笔记、经验与思考
 
 ## 🛠️ Tech Stack
@@ -37,31 +34,12 @@
 ![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=KaleidScoper&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
 
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://kaleidscoper.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaleidScoper)
-
-</div>
-
----
-
-<div align="center">
 
 **⭐️ From [KaleidScoper](https://github.com/KaleidScoper) with ❤️**
-
-![Visitor Count](https://profile-counter.glitch.me/KaleidScoper/count.svg)
 
 </div>
